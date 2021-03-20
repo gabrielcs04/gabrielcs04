@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Gabriel Costa</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=react"></p>
+
+
+<!-- ### Hi there 👋 -->
 <!--
 **gabrielcs04/gabrielcs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
