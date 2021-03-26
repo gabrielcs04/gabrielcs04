@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=react"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=react"></p>
 
 
 <!-- 
