@@ -1,4 +1,4 @@
-<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/1006/1006363.svg?token=exp=1619731799~hmac=5daceed946c0ae2c7a2499ff2403d8b7" alt="Coding" width=40% />
+<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/1006/1006363.svg?token=exp=1619737484~hmac=c59fd4d75d720a604cb9fc6103798998" alt="Coding" width=40% />
 
 <h1>Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
