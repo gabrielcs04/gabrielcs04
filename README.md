@@ -1,5 +1,3 @@
-<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/1006/1006363.svg?token=exp=1619737484~hmac=c59fd4d75d720a604cb9fc6103798998" alt="Coding" width=40% />
-
 <h1>Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <h3>You are the protagonist of your story, so make it happen.</h3>
@@ -8,7 +6,7 @@
 
 <!-- 
 ### Hi there 👋 
-
+<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/1006/1006363.svg?token=exp=1619737484~hmac=c59fd4d75d720a604cb9fc6103798998" alt="Coding" width=40% />
 **gabrielcs04/gabrielcs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
