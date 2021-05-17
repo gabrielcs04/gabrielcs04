@@ -6,7 +6,6 @@
 
 <!-- 
 ### Hi there 👋 
-<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/1006/1006363.svg?token=exp=1619737484~hmac=c59fd4d75d720a604cb9fc6103798998" alt="Coding" width=40% />
 **gabrielcs04/gabrielcs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
