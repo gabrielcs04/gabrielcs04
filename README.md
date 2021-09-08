@@ -15,6 +15,10 @@
   <img align="center" alt="Gabriel-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+##
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Costa-007EC6?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&link=https://www.linkedin.com/in/gabriel-costa-da-silva/)](https://www.linkedin.com/in/gabriel-costa-da-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.costasilva04@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.costasilva04@gmail.com)](mailto:gabriel.costasilva04@gmail.com)
+
 <!-- 
 ### Hi there 👋 
 **gabrielcs04/gabrielcs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
