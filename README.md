@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.costasilva04@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.costasilva04@gmail.com)](mailto:gabriel.costasilva04@gmail.com)
 [![instagram Badge](https://img.shields.io/badge/-gabriel.costa04-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriel.costa04/)](https://www.instagram.com/gabriel.costa04/)
 
- ![Snake animation](https://github.com/gabrielcs04/gabrielcs04/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielcs04/gabrielcs04/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 ### Hi there 👋 
