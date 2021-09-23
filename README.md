@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/gabrielcs04/gabrielcs04/blob/main/images/code.svg" alt="Code" width=40% />
+<img align="right" src="https://github.com/gabrielcs04/gabrielcs04/blob/main/images/code.gif" alt="Code" width="40%" />
 <h1>Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <h3>You are the protagonist of your story, so make it happen.</h3>
