@@ -23,9 +23,6 @@
 ![Snake animation](https://github.com/gabrielcs04/gabrielcs04/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
-### Hi there 👋 
-**gabrielcs04/gabrielcs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
