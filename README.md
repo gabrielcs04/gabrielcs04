@@ -16,9 +16,9 @@
 </div>
 
 ##
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Costa%20da%20Silva-007EC6?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-da-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.costasilva04@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.costasilva04@gmail.com)
-[![instagram Badge](https://img.shields.io/badge/-gabriel.costa04-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel.costa04/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007EC6?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-da-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.costasilva04@gmail.com)
+[![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel.costa04/)
 
 ![Snake animation](https://github.com/gabrielcs04/gabrielcs04/blob/output/github-contribution-grid-snake.svg)
 
