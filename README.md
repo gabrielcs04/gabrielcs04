@@ -16,7 +16,7 @@
 </div>
 
 ##
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007EC6?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-da-silva/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007EC6?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriecs04/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.costasilva04@gmail.com)
 [![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel.costa04/)
 
