@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Hi, I'm Gabriel Costa! 👋</h1>
 <img align="right" src="https://github.com/gabrielcs04/gabrielcs04/blob/main/images/code.gif" alt="Code" width="32%" />
 
 <h3>You are the protagonist of your story, so make it happen.</h3>
@@ -16,9 +16,10 @@
 </div>
 
 ##
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-007EC6?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcs04/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.costasilva04@gmail.com)
-[![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel.costa04/)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcs04/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.costasilva04@gmail.com)
+[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel.costa04/)
 
 ![Snake animation](https://github.com/gabrielcs04/gabrielcs04/blob/output/github-contribution-grid-snake.svg)
 
