@@ -4,7 +4,7 @@
 ### You are the protagonist of your story, so make it happen.
 
 ## ⚙️ GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula"/>
 
 ## 🛠 Tech Stack
 <div>
