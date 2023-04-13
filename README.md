@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula"/>
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nextjs,django,electron,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nextjs,django,electron,mysql)
 
 ## 😀 Social Links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcs04/)
