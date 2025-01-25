@@ -7,7 +7,14 @@
 ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula)
 
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nextjs,electron,django,mysql,git)
+### 💻 Programming Languages  
+![Programming Languages](https://skillicons.dev/icons?i=java,spring,python,django,js,react,nextjs,ts)  
+### 🎨 Markup & Styling Languages  
+![Markup & Styling](https://skillicons.dev/icons?i=html,css)  
+### 🗄 Databases  
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,oracle)  
+### 🛠 Tools  
+![Tools](https://skillicons.dev/icons?i=git)  
 
 ## 😀 Social Links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcs04/)
