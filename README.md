@@ -1,7 +1,8 @@
 # Hi, I'm Gabriel Costa! 👋
-<img align="right" src="https://github.com/gabrielcs04/gabrielcs04/blob/main/images/code.gif" alt="Code" width="35%" />
 
-### You are the protagonist of your story, so make it happen.
+## 🚀 About Me
+I'm a passionate software developer focused on backend and full-stack development, always eager to learn new technologies and improve my coding skills.
+### "You are the protagonist of your story, so make it happen."
 
 ## ⚙️ GitHub Analytics
 ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula)
