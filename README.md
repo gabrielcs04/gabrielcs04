@@ -5,7 +5,7 @@ I'm a passionate software developer focused on backend and full-stack developmen
 ### "You are the protagonist of your story, so make it happen."
 
 ## ⚙️ GitHub Analytics
-![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula)
+![My Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabrielcs04&layout=compact&theme=dracula)
 
 ## 🛠 Tech Stack
 ### 💻 Programming Languages  
